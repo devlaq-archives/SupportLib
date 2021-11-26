@@ -1,0 +1,7 @@
+name: SupportLib
+version: '${version}'
+main: supportlib.SupportLib
+api-version: 1.17
+prefix: SupportLib
+authors: [ devlaq ]
+description: SupportLib
